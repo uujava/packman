@@ -10,8 +10,16 @@ Here we learned:
  - javax sound API
 It does not provide any tests, build tools or whatever used in production development. 
 Just the java language API intorduced.
-Use Intellij Idea Community Edition to edit and run the project. 
-Entry point is GamePackman.
+
+Usage
+- Use Intellij Idea Community Edition to edit and run the project.
+- Run com.company.GamePackman
+- Fixed size window 1920x1080 used os full hd monitor is needed
+- Keys used to drive packman:
+ w - up
+ a - left
+ d - right
+ s - down
 
 Licensed wtfpl (www.wtfpl.net)
 
